@@ -1,0 +1,7 @@
+curl --location --request POST 'https://jedavard.us.auth0.com/oauth/token' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'client_id=VguSG96gXOzmh8HdUZ1D7CKxsJ1Q21Oc' \
+--data-urlencode 'username=jedavard@gmail.com' \
+--data-urlencode 'password=Ry01id53' \
+--data-urlencode 'grant_type=password' \
+--data-urlencode 'scope=openid'

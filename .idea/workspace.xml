@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d73acb45-938a-413d-92f1-06e304868718" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1k9Dx0T5FOxwaVrXvFGvtdAC7CY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d73acb45-938a-413d-92f1-06e304868718" name="Default Changelist" comment="" />
+      <created>1605104155601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605104155601</updated>
+      <workItem from="1605104156705" duration="1117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605105411518">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="247" key="#com.intellij.fileTypes.FileTypeChooser/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1605105411518" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1605104347397">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1605104347397" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1605104347395">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.center/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1605104347395" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1605104347394">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.left/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1605104347394" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1605104347396">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="240" key="GridCell.Tab.0.right/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1605104347396" />
+    <state x="422" y="189" width="595" height="522" key="find.popup" timestamp="1605104417720">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="422" y="189" width="595" height="522" key="find.popup/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1605104417720" />
+  </component>
+</project>
